@@ -1,0 +1,121 @@
+/*登陆界面*/
+.login_top{
+    height: 260px;
+    width: 100%;
+    background: url("../images/login_top.png");
+    border-bottom: 1px solid #cccccc;
+    /*box-shadow: 5px -5px 4px rgba(225,0,0,1)  ;*/
+}
+.login_bottom{
+    height: 680px;
+    width: 100%;
+    background-color: #EEEEEE;
+}
+.login_top_lg{
+    padding-top: 62px;
+    padding-left: 118px;
+    padding-bottom: 25px;
+}
+.login_top_lg p{
+    font-family: "Microsoft YaHei UI";
+    font-size: 40px;
+    color: #fafafa;
+    letter-spacing: 0;
+    text-shadow: 3px 8px 4px  #001135;
+}
+.login_top_lg_sj{
+    padding-left: 119px;
+    padding-top: 20px;
+}
+
+.login_bottom_l{
+    float: left;
+    width: 388px;
+    height: 350px;
+    padding-top: 70px;;
+}
+.login_bottom_l p ,.login_bottom_r p{
+    font-weight: 700;
+    font-family: "Adobe 黑体 Std R", "微软雅黑", "宋体";
+    font-size: 16px;
+    color: #5EC6E8;
+    margin-bottom: 13px;
+}
+.login_bottom_l_in{
+    display: block;
+    padding: 0 15px;
+    width: 320px;
+    height: 38px;
+    line-height: 35px;
+    border-radius: 10px;
+    background-color: white;
+    font-size: 16px;
+}
+.autoLogin{
+    height: 30px;
+    line-height: 30px;
+    color: #666;
+    font-family: "宋体";
+}
+#checkbox {
+    margin: 8px 5px 8px 10px;
+    float: left;
+    valign: center;
+
+    vertical-align: middle;
+}
+.input_jj_01{
+    margin-bottom: 46px;
+}
+.input_jj_02{
+    margin-bottom: 7px;
+}
+.login_bottom_bt{
+    margin-top: 17px;
+}
+.login_bottom_bt_01{
+    display: block;
+    float: left;
+    width: 120px;
+    height: 40px;
+    border-radius: 15px;
+    background-color: #1C98BF;
+    box-shadow: 0 0 3px #5EC6E8 inset;
+    text-align: center;
+    font-family: arial,STHeiti,'Microsoft YaHei',宋体;
+    font-size: 16px;
+    cursor: pointer;
+    color: #FCFCFC;
+}
+.login_bottom_bt_02{
+    display: block;
+    float: left;
+    width: 140px;
+    height: 37px;
+    border-radius: 13px;
+    background-color: #D7EBFF;
+    text-align: center;
+    cursor: pointer;
+    box-shadow: 0 0 1px #5EC6E8 inset;
+    color: #848484;
+    font:   18px 宋体;
+
+}
+.input_jj_03{
+    margin-right: 20px;
+}
+.login_bottom_c{
+    float: left;
+    width: 3px;
+    height: 273px;
+    background: url("../images/login_bottom_c.png");
+    padding-top: 50px;
+}
+
+.login_bottom_r{
+    width: 300px;
+    height: 300px;
+    padding-top: 70px;
+    float: left;
+    margin-left: 40px;
+}

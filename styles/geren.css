@@ -1,0 +1,65 @@
+.center{
+    width: 100%;
+    background-color: #F5F8FA;
+    height: 1000px;
+}
+.center_t{
+    width: 100%;
+    height: 400px;
+    background: url("../images/aini.png") ;
+}
+.center_c{
+    height: 60px;
+    width: 100%;
+    background-color: #fff;
+    border-bottom: 1px solid #bbbbbb;
+}
+.center_nav{
+    position: relative;
+    height: 100%;
+}
+.center_c_tx{
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    border: 7px solid #fff;
+    /*border-radius: 8px;*/
+    background-color: #1C98BF;
+    bottom: -32px;
+    left: 21px;
+    overflow: hidden;
+    border-bottom-left-radius: 16px;
+    border-top-left-radius: 16px;
+    border-top-right-radius: 16px;
+    border-bottom-right-radius: 16px;
+}
+.center_c_tx img{
+	height:200px;
+	width:200px;
+}
+.center_nav_box{
+    margin-left: 260px;
+    height: 100%;
+}
+.nav_box{
+    display: inline-block;
+    float: left;
+    height: 50px;
+    padding-top: 10px;
+
+}
+.nav_box a {
+    cursor: pointer;
+    display: block;
+    padding: 0 10px;
+    height: 45px;
+    line-height: 45px;
+}
+.nav_box a:hover{
+    color: #ffc09f;
+}
+.nav_box_b{
+    width: 100%;
+    height: 5px;
+    background-color: #ffc09f;
+}

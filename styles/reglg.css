@@ -1,0 +1,143 @@
+.reg_top{
+    height: 50px;
+    width: 100%;
+    background-color: #60AFD7;
+    border-bottom: 1px solid #cccccc;
+    /*box-shadow: 5px -5px 4px rgba(225,0,0,1)  ;*/
+}
+.reg_top span{
+    display: block;
+    height: 50px;
+    line-height: 50px;
+    font-size: 16px;
+    color: #555;
+}
+.reg_top a{
+    color: #fff;
+
+}
+.reg_top a:hover{
+    color: #DDDDDD;
+}
+.reg_top_l{
+    font-weight: bold;
+    text-shadow: 4px 4px 2px #A8D5EA;
+    float: left;
+}
+.reg_top_r{
+    float: right;
+}
+.reg_top_lg p{
+    font-family: "Microsoft YaHei UI";
+    font-size: 40px;
+    color: #fafafa;
+    letter-spacing: 0;
+    text-shadow: 3px 8px 4px  #001135;
+}
+.reg_top_lg_sj{
+    padding-left: 119px;
+    padding-top: 20px;
+}
+.reg_bottom{
+    height: 890px;
+    width: 100%;
+    background-color: #f1f4f5 ;
+}
+.signup{
+    padding-top: 133px;
+}
+.signup_box{
+    border: 1px solid #cccccc;
+    box-shadow: 0 0 3px  #DDD;
+    padding: 70px 0;
+    height: auto;
+    margin-top: 120px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 400px;
+}
+.signup_box h1{
+    text-align: center;
+    width: 400px;
+    margin-bottom: 120px;
+    color: #5DAED6;
+    text-shadow: 2px 2px 2px #444;
+}
+.signup_box .ljdl{
+    display: block;
+    width: 200px;
+    height: 40px;
+    border-radius: 15px;
+    background-color: #1C98BF;
+    font-size: 16px;
+    cursor: pointer;
+    color: #FCFCFC;
+    margin-left: 100px;
+    border: none;
+}
+.item{
+    width: 400px;
+    height: 37px;
+    margin-bottom: 21px;
+    color: #555;
+}
+.item span{
+    display: inline-block;
+    float: left;
+    width: 80px;
+    text-align: right;
+    line-height: 37px;
+    height: 37px;
+    margin-right: 18px;
+}
+.box{
+    display: inline-block;
+    float: left;
+    color: #333333;
+    width: 290px;
+    height: 37px;
+    line-height: 37px;
+    border: 1px solid #777;
+    border-radius: 2px;
+    padding: 0 4px;
+    background-color: #fff;
+}
+.box_yz{
+    display: inline-block;
+    float: left;
+    color: #333333;
+    width: 123px;
+    height: 37px;
+    line-height: 37px;
+    border: 1px solid #777;
+    border-radius: 2px;
+    padding: 0 4px;
+    background-color: #fff;
+}
+.yz{
+    width: 130px;
+    margin-left: 10px;
+    height: 37px;
+    float: left;
+}
+.yz a{
+    display: block;
+    line-height: 37px;
+    width: 43px;
+    float: left;
+}
+.yz img{
+    border: none;
+    float: right;
+    margin-top: 5px;
+}
+.submit{
+    width: 376px;
+    height: 43px;
+    color: #FFFFFF;
+    display: block;
+    border-radius: 5px;
+    background-color: #1C98BF;
+    margin-top: 52px;
+    margin-left: 40px;
+}
